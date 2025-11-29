@@ -263,10 +263,7 @@ For support, email omar@example.com or open an issue in the GitHub repository.
 ## 📊 Screenshots
 
 ![WhatsApp Image 2025-11-29 at 5 09 57 PM](https://github.com/user-attachments/assets/011986ea-24d3-441e-a4a8-31bd974099e7)
-![WhatsApp Image 2025-11-29 at 5 09 55 PM](https://github.com/user-attachments/assets/7bf62896-0377-460a-91d2-dc7de901cc02)
-
-
-
+![WhatsApp Image 2025-11-29 at 5 09 56 PM](https://github.com/user-attachments/assets/2ffe823a-74e3-407a-b4a6-9ec5f5dbfe78)
 
 ⭐ If you find this project useful, please consider giving it a star on GitHub!
 
